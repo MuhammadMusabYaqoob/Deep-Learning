@@ -1,4 +1,4 @@
-# 🖼️ Image Processing for Deep Learning
+~~~~# 🖼️ Image Processing for Deep Learning
 
 This notebook demonstrates the basic yet essential steps of loading and processing images for deep learning applications. It’s a beginner-friendly project that explores working with image data using Python libraries like `matplotlib`, `NumPy`, and `TensorFlow`.
 
